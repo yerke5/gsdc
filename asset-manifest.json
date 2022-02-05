@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/gsdc/static/css/main.cd58f987.css",
-    "main.js": "/gsdc/static/js/main.7ab2d010.js",
+    "main.css": "/gsdc/static/css/main.fec6fef0.css",
+    "main.js": "/gsdc/static/js/main.ff1bc884.js",
     "static/js/787.7d4caaf7.chunk.js": "/gsdc/static/js/787.7d4caaf7.chunk.js",
+    "static/media/dev.jfif": "/gsdc/static/media/dev.150e31a0f13decf481b0.jfif",
+    "static/media/AvenirLTStd-Book.otf": "/gsdc/static/media/AvenirLTStd-Book.813557df4c7a90b1a474.otf",
     "index.html": "/gsdc/index.html",
-    "main.cd58f987.css.map": "/gsdc/static/css/main.cd58f987.css.map",
-    "main.7ab2d010.js.map": "/gsdc/static/js/main.7ab2d010.js.map",
+    "main.fec6fef0.css.map": "/gsdc/static/css/main.fec6fef0.css.map",
+    "main.ff1bc884.js.map": "/gsdc/static/js/main.ff1bc884.js.map",
     "787.7d4caaf7.chunk.js.map": "/gsdc/static/js/787.7d4caaf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd58f987.css",
-    "static/js/main.7ab2d010.js"
+    "static/css/main.fec6fef0.css",
+    "static/js/main.ff1bc884.js"
   ]
 }
